@@ -1,0 +1,35 @@
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+    padding: 7px;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    font-size: 12px;
+}
+
+.rodape-media {
+    background-color: #000;
+}
+
+.footer-icon {
+    background-color: #000;
+    color: #fff;
+}
+
+.footer-texto {
+    display: flex;
+    align-items: center;
+    margin-left: 5px;
+    color: #fff;
+    background-color: #000;
+}
+
+.footer-icon-social-media {
+    padding-left: 2px;
+    padding-top: 3.5px;
+    color: #fff;
+    background-color: #000;
+}

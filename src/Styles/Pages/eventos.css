@@ -1,0 +1,52 @@
+.subtitulo-eventos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 80px;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+#container-eventos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-bottom: 150px;
+}
+
+#card-eventos {
+    width: 700px;
+    margin: 50px;
+    padding: 50px;
+    line-height: 30px;
+    text-align: justify;
+    border: 1px solid #c9c9c9;
+    border-radius: 7px;
+    box-shadow: 6px 6px 0 #fef001;
+}
+
+#card-eventos:hover {
+    transition: 0.2s;
+    transform: scale(1.1); 
+}
+
+#card-eventos h3 {
+    color: #000;
+    margin-bottom: 10px;
+}
+
+#card-eventos p {
+    color: #000;
+    margin-bottom: 10px;
+}
+
+#card-eventos a {
+    border: 1px solid #000;
+    border-radius: 2px;
+    color: whitesmoke;
+    background-color: #000;
+}
+
+
